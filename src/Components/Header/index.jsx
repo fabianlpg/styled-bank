@@ -56,7 +56,7 @@ const Header = () => {
           <BtnPrimario to="/">Home</BtnPrimario>
           <BtnPrimario to="/account">Account</BtnPrimario>
           <BtnPrimario to="/help">Help</BtnPrimario>
-          <BtnSalir to="/signout">Sing out</BtnSalir>
+          <BtnSalir to="/signout">Sign out</BtnSalir>
         </div>
       </StyledHeader>
     </>
